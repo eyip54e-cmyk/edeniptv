@@ -14,11 +14,13 @@ https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/playlist.m3u8
 http://59ec5453559f0.streamlock.net:1935/Sunbeachtv/smil:WEB/chuklist.m3u8
 https://dash3.antik.sk/live/test_osem/playlist.m3u8
 http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/playlist.m3u8
-http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
-https://edge19.vedge.infomaniak.com/livecast/ik:rougetv/manifest.m3u8
 https://rougetv.vedge.infomaniak.com/livecast/rougetv/playlist.m3u8
 https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8
+http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
+https://edge19.vedge.infomaniak.com/livecast/ik:rougetv/manifest.m3u8
 https://edge19.vedge.infomaniak.com/livecast/ik:onefmmd/manifest.m3u8
+http://edge14.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
+https://edge14.vedge.infomaniak.com/livecast/ik:carac5/playlist.m3u8
 https://autopilot.catcast.tv/content/40381/index.m3u8?cur=tva.org.ua&key=3i277
 https://edge19.vedge.infomaniak.com/livecast/ik:carac5/manifest.m3u8
 http://live.redtraffic.net/woman.m3u8
